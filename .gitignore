@@ -11,3 +11,4 @@ m3
 .vagrant
 *.swp
 \#*#
+bootstrap/python-2.7.le*
